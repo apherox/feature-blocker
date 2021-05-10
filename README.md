@@ -1,5 +1,5 @@
 # feature-blocker
-Block Java methods providing features depending on whether those features exist in a license
+Block Java REST methods providing features depending on whether those features exist within a license file.
 
 Application commands
 ---
